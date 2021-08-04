@@ -2,7 +2,7 @@
               background-image:linear-gradient(to right,#33ccff,#ff99cc);
               font-family:'Righteous';
                                }
-       h1   { margin: 10px 15% 40px;
+       h1   { margin: 10px auto 40px;
               font-size:40px;
               color:white;
               background-color:black;
@@ -11,7 +11,7 @@
               text-align:center;
               box-shadow: 20px 20px 50px grey;
               }
-       table{margin:20px auto;
+       table{margin:20px 2% 20px;
               width:100%
               height:100%;
               background-color:white;
