@@ -90,7 +90,13 @@
         case 6:
            day="SATURDAY!";
           } 
-          document.getElementById("demo").innerHTML= "Today is " + day;      
+          document.getElementById("demo").innerHTML= "Today is " + day;
+     
+          var d = new Date().getDay()
+       if (d == 3) {
+             document.getElementById("r3").classList.add("day");
+                }
+         
    </script>
           
     <table>
