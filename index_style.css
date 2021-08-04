@@ -23,7 +23,7 @@
                   }
      th,td{padding:10px;
                }
-     tr.day{ background-color:orange;
+     .day{ background-color:orange;
            font-size:18px;
            color:white;
             }
