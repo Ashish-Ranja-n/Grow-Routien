@@ -1,4 +1,5 @@
 var d = new Date().getDay();
+function random() {
   if (d == 1) {
              document.getElementById("r1").classList.add("day");
                 }
@@ -17,5 +18,6 @@ var d = new Date().getDay();
   else if (d == 6) {
                document.getElementById("r6").classList.add("day");
                    }
+}
  
          
