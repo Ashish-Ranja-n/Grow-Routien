@@ -1,5 +1,6 @@
       body{ background-color:lawngreen;
               background-image:linear-gradient(to right,#33ccff,#ff99cc);
+              background-repeat: no-repeat;
               font-family:'Righteous';
                                }
        h1   { margin: 40px 4%;
