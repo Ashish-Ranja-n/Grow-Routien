@@ -1,4 +1,5 @@
-  var d = new Date().getDay()
+var n = new Date()
+var d = n.getDay()
   if (d == 1) {
              document.getElementById("r1").classList.add("day");
                 }
