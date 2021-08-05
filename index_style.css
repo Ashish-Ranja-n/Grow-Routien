@@ -12,6 +12,8 @@
               text-align:center;
               box-shadow: 20px 20px 50px grey;
               }
+      h2{ text-shadow:right red;
+           }
        table{margin:30px 10% 30px 10%;
               background-color:white;
               background-image:linear-gradient(to right,#ff6e7f,#bfe9ff);
