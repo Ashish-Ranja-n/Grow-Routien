@@ -1,9 +1,7 @@
       body{ background-color:lawngreen;
               background-image:linear-gradient(to right,#33ccff,#ff99cc);
-              background-size:100%;
-              background-repeat: no-repeat;
-              width:100%;
-              margin:100px;
+              background-size:120% 120%;
+              margin:10px;
               font-family:'Righteous';
                                }
        h1   { margin: 40px auto;
@@ -29,7 +27,7 @@
      tr.day{ background-color:orange;
            font-size:18px;
            color:white;
-           box-shadow: 5px 5px 20px white;
+           box-shadow: 5px 5px 20px black;
             }
 
      td:hover{background-color:black;
