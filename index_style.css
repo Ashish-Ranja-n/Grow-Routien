@@ -6,7 +6,7 @@
               padding:3;
               font-family:'Righteous';
                                }
-       h1   { margin: 40px auto;
+       h1   { margin: 40px;
               font-size:40px;
               color:white;
               background-color:black;
@@ -15,7 +15,7 @@
               text-align:center;
               box-shadow: 20px 20px 50px grey;
               }
-       table{margin:auto;
+       table{margin:20px;
               background-color:white;
               background-image:linear-gradient(to right,#ff6e7f,#bfe9ff);
                       }
