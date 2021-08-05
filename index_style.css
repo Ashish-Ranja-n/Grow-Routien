@@ -4,7 +4,7 @@
             margin:30px;
             font-family:'Righteous';
                                }
-       h1   { margin: 40px 15%;
+       h1   { margin: 40px 5%;
               font-size:40px;
               color:white;
               background-color:black;
@@ -13,7 +13,7 @@
               text-align:center;
               box-shadow: 20px 20px 50px grey;
               }
-       table{margin:20px 20%;
+       table{margin:20px auto;
               background-color:white;
               background-image:linear-gradient(to right,#ff6e7f,#bfe9ff);
                       }
@@ -36,6 +36,7 @@
       button{background-color: black;
               border-radius: 10px;
               box-shadow: 5px 5px 25px black;
+              margin:30px;
                 }   
      a:link{color:white;
            text-decoration:none;
