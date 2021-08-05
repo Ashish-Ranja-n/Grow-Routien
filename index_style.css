@@ -1,9 +1,9 @@
       body{ background-color:blue;
             background-image:linear-gradient(to right,#33ccff,#ff99cc);
-            background-size:120%;
+            background-size:120% 120%;
             font-family:'Righteous';
                                }
-       h1   { margin: 40px;
+       h1   { margin: 40px 15%;
               font-size:40px;
               color:white;
               background-color:black;
