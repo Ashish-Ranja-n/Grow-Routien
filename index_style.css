@@ -4,7 +4,7 @@
             font-family:'Righteous';
                                }
        h1   { margin: 40px;
-              font-size:40px;
+              font-size:30px;
               color:white;
               background-color:black;
               border-radius: 10px;
@@ -12,9 +12,9 @@
               text-align:center;
               box-shadow: 20px 20px 50px grey;
               }
-      h2{ text-shadow:right red;
+      h2{ text-shadow:1px 3px 1px 1px red;
            }
-       table{margin:30px 10% 30px 10%;
+       table{margin:30px;
               background-color:white;
               background-image:linear-gradient(to right,#ff6e7f,#bfe9ff);
                       }
