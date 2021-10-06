@@ -15,7 +15,7 @@
               }
       h2{ text-shadow:1px 3px 1px 1px red;
            }
-       table{margin:30px auto;
+       table{margin:30px 10%;
              background-color:white;
              background-image:linear-gradient(to right,#ff9966,#ff5e62);
              border-collapse:collapse;
