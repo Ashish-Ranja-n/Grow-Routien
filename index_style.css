@@ -57,6 +57,26 @@
    a:visited{color:white;
            text-decoration:none;
                }
+.nav1{
+	background-color:#333;
+	margin:5px;
+	overflow: hidden;
+}
+.nav1 a{
+	text-decoration:none;
+	color: white;
+	display:block;
+	float: left;
+	margin:0;
+	padding:15px 20px;
+	text-align: center;
+
+}
+.nav1 a:hover{
+	color:white;
+	background-color: red;
+	transition: 1s;
+}
     a:hover{color:white;
            text-decoration:underline;
            font-size:20px;} 
