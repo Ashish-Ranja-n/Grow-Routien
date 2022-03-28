@@ -10,18 +10,11 @@
 	padding:3px;
 	font-size:20px;
 	text-align: center;
-	border-bottom: solid;
+	border-bottom:1px solid;
 }
-       h1   { margin: 40px auto;
-              font-size:30px;
-              color:black;
-              background-color:;
-              border-radius: 10px;
-              padding: 5px;
-              text-align:center;
-              box-shadow: 20px 20px 50px grey;
-              }
-      h2{ text-shadow:1px 3px 1px 1px red;
+
+    h2,h3{text-align:center;
+	  text-shadow:1px 3px 1px 1px red;
            }
        table{background-color:white;
              background-image:linear-gradient(to right,#ff9966,#ff5e62);
