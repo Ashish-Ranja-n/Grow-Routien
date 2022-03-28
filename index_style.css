@@ -4,6 +4,14 @@
             font-family:'Righteous';
             margin:5;
                   }
+.header{
+	color:black;
+	background:white;
+	padding:3px;
+	font-size:20px;
+	text-align: center;
+	border-bottom: solid;
+}
        h1   { margin: 40px auto;
               font-size:30px;
               color:black;
